@@ -1,1 +1,1 @@
-# .github
+# ◆ teamblueprint/.github
