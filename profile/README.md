@@ -4,6 +4,9 @@
   We are creating the industry's best modding platform/community for the <a href="https://pterodactyl.io">Pterodactyl</a> panel.
   <br><br>
   <a href="https://github.com/sponsors/prplwtf">
-    ![Sponsor us](https://github.com/user-attachments/assets/5d4ce584-04f7-459f-9696-df0f286258ed)
+    ![Sponsor us](https://github.com/user-attachments/assets/4e29c0a2-504b-48eb-8d2d-67ff0a58f2b4)
+  </a>
+  <a href="https://github.com/orgs/BlueprintFramework/discussions">
+    ![Discussions](https://github.com/user-attachments/assets/758b5f41-79ad-49cd-90ff-0affd92d11d3)
   </a>
 </p><br/>
