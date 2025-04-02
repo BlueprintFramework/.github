@@ -3,7 +3,7 @@
   We're <code>BlueprintFramework</code>, the organization behind the <a href="https://blueprint.zip">Blueprint modding framework</a>.<br>
   We are creating the industry's best modding platform/community for the <a href="https://pterodactyl.io">Pterodactyl</a> panel.
   <br><br>
-  <a href="https://github.com/sponsors/prplwtf">
+  <a href="https://hcb.hackclub.com/donations/start/blueprint">
     ![Sponsor us](https://github.com/user-attachments/assets/4e29c0a2-504b-48eb-8d2d-67ff0a58f2b4)
   </a>
   <a href="https://github.com/orgs/BlueprintFramework/discussions">
