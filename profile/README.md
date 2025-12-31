@@ -9,4 +9,10 @@
   <a href="https://github.com/orgs/BlueprintFramework/discussions">
     ![Discussions](https://github.com/user-attachments/assets/758b5f41-79ad-49cd-90ff-0affd92d11d3)
   </a>
-</p><br/>
+</p>
+
+<br/><br/>
+
+<p align="center"/>
+<i>Community projects are available on the <a href="https://github.com/blueprint-community"><code>blueprint-community</code> GitHub organization</a>.</i>
+</p>
